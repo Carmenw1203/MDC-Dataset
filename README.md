@@ -1,6 +1,6 @@
 # The Multi-Dancer Choreography dataset (MDC)
 
-Paper: GroupDancer: Music to Multi-People Dance Synthesis with Style Collaboration
+Paper: [GroupDancer: Music to Multi-People Dance Synthesis with Style Collaboration](https://web.archive.org/web/20221022165302id_/https://dl.acm.org/doi/pdf/10.1145/3503161.3548090)
 
 ## Dataset overview
 
