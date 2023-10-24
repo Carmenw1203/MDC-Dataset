@@ -28,7 +28,7 @@ We organizes the files as follows:
 ### 1. Download Data
 Download link:
 ```
-Google Drive:
+Google Drive: https://drive.google.com/file/d/1Q2SnPrlVM_U8wSJI-0JTVJH0bemCfj3U/view?usp=drive_link
 ```
 unzip it under the `data` directory
 ### 2. Install with pip
